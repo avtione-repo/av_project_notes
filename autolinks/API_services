@@ -1,0 +1,13 @@
+NLP /find/entities
+
+
+{
+  "text": "text Germany has a Mercedes",
+  "source": "string",
+  "lang": "string",
+  "availabletypes": [
+    "string"
+  ],
+  "annotations": [
+  ]
+}
